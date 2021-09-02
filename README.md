@@ -6,4 +6,5 @@
 Бот: `@hse_igzhebrun_bot`
 
 Деплой произведен с помощью сервиса Heroku.
+
 :exclamation: Бот может не работать, если закончились dinohours :exclamation:
